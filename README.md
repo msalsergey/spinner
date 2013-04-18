@@ -10,6 +10,12 @@ This plagin currect work in the latest version browsers, such us
 <b>Opera</b>,
 <b>InternetExplorer7+</b>
 
+Call plugin</br>
+<pre>
+$('.spinner').spinner();
+</pre>
+
+
 The standart <b>OPTIONS</b>:
 
 <b>minusClass</b> - write class for minus element if you want use any class different to standart<br>
