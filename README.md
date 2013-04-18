@@ -4,7 +4,7 @@ spinner
 Spinner plugin
 
 This plagin currect work in the latest version browsers, such us
-<b>FireFoxM</b>,
+<b>FireFox</b>,
 <b>Chrome</b>, 
 <b>Safari</b>,
 <b>Opera</b>,
